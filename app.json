@@ -89,9 +89,9 @@
             "value":"3"
         },
         "LANGUAGE": {
-            "description": "Available languages: english,manglish,turkish",
-            "required": false,
-            "value":"english"
+            "description": "Available languages: english,manglish,turkish,arabic",
+            "required": true,
+            "value":"arabic"
         },
         "AUTO_READ_STATUS": {
             "description": "View status updates automatically",
