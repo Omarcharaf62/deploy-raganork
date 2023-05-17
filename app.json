@@ -1,5 +1,5 @@
 {
-    "name": "rgnk wabot",
+    "name": "COSMOSS",
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
@@ -41,27 +41,27 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Raganork pack;Author name"
+            "value":"COSMOSS"
         },
         "CHATBOT": {
             "description": "AI chatbot",
             "required": true,
-            "value":"off"
+            "value":"true"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "COSMOSS",
             "required": true,
-            "value":"Raganork"
+            "value":"COSMOSS"
         },
         "AUDIO_DATA": {
-            "description": "Name of audio (take) name;name;image(url)",
+            "description": "Name of audio (COSMOSS) name;name;image(https://instagram.com/1.csms?igshid=NTc4MTIwNjQ2YQ==)",
             "required": true,
-            "value":"Raganork;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+            "value":"COSMOSS"
         },
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
